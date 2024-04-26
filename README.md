@@ -9,7 +9,7 @@
         🌐I enjoy Data Science, Back-End and a bit of Front-end.
     </li>
 </ul>
-<h1>MY STATS</h1>
+<h1>📊MY STATS</h1>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCld&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=A60A0A&text_color=c9d1d9&bg_color=0d1117" alt="Victor github stats" /> 
