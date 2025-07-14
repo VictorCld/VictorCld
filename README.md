@@ -1,12 +1,7 @@
 <h1>Hi there! I'm Victor!</h1>
-<h3>📖ABOUT ME</h3>
-<p>I'm a software engineering student, I'm still familiarizing myself with all the possible careers I can pursue, however, I already have things in mind that I want to study. I intend to delve deeper into perhaps being a fullstack dev, but I'm more interested in back-end and data science.</p>
 <ul>
     <li>
         💻Studying Software Engineering
-    </li>
-    <li>
-       📚 I enjoy Data Science, Back-End and a bit of Front-end.
     </li>
 </ul>
 <h1>SKILLS</h1>
