@@ -16,12 +16,7 @@
     <img alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="30" />
 
 </div>
-<h1>📊STATS</h1>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorCld&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=A60A0A&text_color=c9d1d9&bg_color=0d1117" alt="Victor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCld&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-</div>
+<h1>📊SOCIAL</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-gabriel-cc" target="_blank">
